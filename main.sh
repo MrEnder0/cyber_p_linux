@@ -26,4 +26,4 @@ else
 fi
 
 # Set password rules
-./scan_home_files.sh
+./passwords.sh
