@@ -24,3 +24,6 @@ if [[ "$answer" == "y" || "$answer" == "yes" ]]; then
 else
     echo "Skipping home directory scan."
 fi
+
+# Set password rules
+./scan_home_files.sh
